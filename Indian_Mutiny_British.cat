@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="9829-9297-f594-3e97" name="Indian Mutiny British" revision="1" battleScribeVersion="2.02" library="false" gameSystemId="4410-0bc8-f0e3-e5a0" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="e58a-6f9d-3619-7702" name="British Regulars with Muskets" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="2e1e-3fda-bbf3-493b" name="British Regulars with Muskets" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">Yes</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">1</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Thin Red Line, Sharp Practice, Stubborn</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="6b7e-964b-7053-bab0" name="Thin Red Line" hidden="false" targetId="61d8-7f71-a94a-faf4" type="rule"/>
+        <infoLink id="b830-efd0-8bf4-cda6" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="bfa2-e875-3bff-1350" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+        <infoLink id="702c-8246-7066-d0d8" name="Stubborn" hidden="false" targetId="d681-3b7a-7764-7bed" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="72d1-96da-85a8-6c49" name="New CategoryLink" hidden="false" targetId="83e1-2188-7ecb-6a98" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8b5a-fd10-4a5c-e7dd" name="British Company Cavalry" publicationId="717d-5e01-ec61-ca94" page="114" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="885c-35b1-0d19-dafb" name="British Company Cavalry" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4f74-6b82-bafe-78e4" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+        <infoLink id="06bf-a210-8c68-2858" name="Tally Ho!" hidden="false" targetId="d8bb-78dc-6083-d86b" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="1013-124a-7208-f050" name="New CategoryLink" hidden="false" targetId="5c1c-87dd-2fb9-6089" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="8.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dc62-de2e-c3ce-7748" name="British Artillery" publicationId="717d-5e01-ec61-ca94" page="114" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="fb1f-ae20-2f99-e0e1" name="British Artillery" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">Yes</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434"/>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">5</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">-</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="650d-49b8-f050-bbb0" name="New CategoryLink" hidden="false" targetId="dafe-ff28-362c-9bd5" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="da56-d4e6-412a-47b0" name="Artillery" hidden="false" collective="false" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="10d8-a71d-e674-97a5" name="British Skirmishers" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="bc64-9dd8-5043-f490" name="British Skirmishers" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Sharp Practice</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">6</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4b70-8712-20d4-25a8" name="Rifled Musket (Minie)" hidden="false" targetId="0ef4-5389-3afc-9a5d" type="profile"/>
+        <infoLink id="7287-6f3a-3e17-a972" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="fbc3-1512-bdcf-2da4" name="New CategoryLink" hidden="false" targetId="802a-f3d2-7bfd-d7d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="12.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ed58-9280-b127-ee4f" name="Leader" hidden="false" collective="false" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="1f81-a7b7-6b1e-f386" name="New CategoryLink" hidden="false" targetId="612b-bffa-1303-f141" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="2cdc-40c7-a5d4-2b07" name="Leader" hidden="false" collective="false" targetId="c30a-e677-a3c5-4987" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fdb0-5a9c-bd5b-256a" name="Support Options" hidden="false" collective="false" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="9235-48e4-5125-7693" name="New CategoryLink" hidden="false" targetId="a645-8a61-0128-7539" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="0a28-73dc-02e8-5aa7" name="Support Options" hidden="false" collective="false" targetId="f9fa-f4cd-e965-48ea" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ea37-4864-cec4-3c2b" name="British Regulars with Enfields" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="fd28-186c-c6a7-bc5b" name="British Regulars with Enfields" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">Yes</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">2</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Thin Red Line, Sharp Practice, Stubborn</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="6129-0f6a-e17b-91e9" name="Thin Red Line" hidden="false" targetId="61d8-7f71-a94a-faf4" type="rule"/>
+        <infoLink id="3b1e-97df-74c9-aa79" name="Rifled Musket (Minie)" hidden="false" targetId="0ef4-5389-3afc-9a5d" type="profile"/>
+        <infoLink id="f825-afc4-cfce-6d78" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+        <infoLink id="4a51-6659-6fdc-bf74" name="Stubborn" hidden="false" targetId="d681-3b7a-7764-7bed" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="256f-7a76-83d7-879a" name="New CategoryLink" hidden="false" targetId="83e1-2188-7ecb-6a98" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5ef0-b186-469e-112a" name="HEIC European Infantry with Muskets" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="ae85-3414-b438-2929" name="HEIC European Infantry with Muskets" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">Yes</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">2</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">3</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">3</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Sharp Practice, Stubborn</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="8a90-582f-79cf-92b6" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="fa73-5404-e935-afc3" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+        <infoLink id="967b-52ca-4519-7713" name="Stubborn" hidden="false" targetId="d681-3b7a-7764-7bed" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="b591-ae08-8e07-1285" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="adde-bb4d-b5cd-4803" name="HEIC European Infantry with Enfields" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="9f37-ad02-3291-78d4" name="HEIC European Infantry with Enfields" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">Yes</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">3</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">3</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Sharp Practice, Stubborn</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="94fd-e96b-73fb-9c20" name="Rifled Musket (Minie)" hidden="false" targetId="0ef4-5389-3afc-9a5d" type="profile"/>
+        <infoLink id="ac79-65e6-1d91-bc1a" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+        <infoLink id="a8ef-9e51-30bd-c697" name="Stubborn" hidden="false" targetId="d681-3b7a-7764-7bed" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="4c8b-edf0-9fbd-501e" name="Conscripts and Volunteers" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="8.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6fcb-48c2-2977-0bd1" name="Loyal Native Infantry" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="21a9-825f-9a1e-8128" name="Loyal Native Infantry" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No Shock</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">First Only</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">3</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Weedy Coves</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="c756-d5bb-7952-b880" name="Weedy Coves" hidden="false" targetId="2735-b463-a1d6-c07d" type="rule"/>
+        <infoLink id="629c-c2d2-8785-c993" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="745c-96f8-19df-c55a" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="3.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8293-48b0-c6b0-a299" name="Ghurkas" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="4b28-49b6-dae8-7dbe" name="Ghurkas" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No Shock</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">First Only</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">1</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Aggressive, Big Choppers</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="5b0e-6b6c-4d37-4b6d" name="Aggressive" hidden="false" targetId="3768-904b-637a-dffd" type="rule"/>
+        <infoLink id="ac54-8251-2d70-d209" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="a59a-d603-44ca-63ac" name="Big Choppers" hidden="false" targetId="eb30-cfe7-f727-7a83" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="859b-8f0c-88ff-4bd8" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d9ca-3669-722f-9149" name="Native Skirmishers" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="2ec0-4a92-a0c3-618d" name="Native Skirmishers" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434"/>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">6</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e7aa-7487-5d0b-bbc3" name="Rifle" hidden="false" targetId="e556-1efd-a166-5c09" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="c086-7191-c396-6388" name="New CategoryLink" hidden="false" targetId="bcc2-d8d3-8872-c543" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="8.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3593-882d-8040-ece1" name="Royal Navy Sailors" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="1d34-9a75-931a-ec32" name="Royal Navy Sailors" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">No</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">3</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Big Choppers</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="6c58-95d5-0558-5b0f" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="e426-e52e-6d53-2a00" name="Big Choppers" hidden="false" targetId="eb30-cfe7-f727-7a83" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="178f-8375-685d-ecb4" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d753-e634-548a-59aa" name="Civilian Volunteers" publicationId="717d-5e01-ec61-ca94" page="113" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="ad42-05e3-85ed-017f" name="Civilian Volunteers" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tactical</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">6</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">3&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="791a-e108-eecf-6445" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="dbe9-ce4b-db6a-e207" name="Tactical" hidden="false" targetId="3cb0-011f-c4be-4e97" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d905-4c01-b4e2-854a" name="New CategoryLink" hidden="false" targetId="0d0f-358f-351a-5088" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0414-ad55-7afb-7dc1" name="Native Cavalry" publicationId="717d-5e01-ec61-ca94" page="114" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="f8a9-a7b9-af02-5d0a" name="Native Cavalry" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">1</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">3</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!, Moveable DP</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="1cc8-3fcd-3fbd-fdda" name="Rifle" hidden="false" targetId="e556-1efd-a166-5c09" type="profile"/>
+        <infoLink id="b5da-9eac-70a0-a26e" name="Tally Ho!" hidden="false" targetId="d8bb-78dc-6083-d86b" type="rule"/>
+        <infoLink id="141e-9f96-916a-ecf9" name="Moveable Deployment Point" hidden="false" targetId="75e3-063f-bb31-3ea3" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="17fe-009f-504a-5828" name="New CategoryLink" hidden="false" targetId="a788-97af-54c1-f87a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ae47-2b12-b902-ea8c" name="British Volunteer Cavalry" publicationId="717d-5e01-ec61-ca94" page="114" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="1b7c-bc71-0305-cf09" name="British Volunteer Cavalry" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">1</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!, Moveable DP</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="cb59-cba0-13b5-286e" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="6901-0f5d-0d7b-253a" name="Tally Ho!" hidden="false" targetId="d8bb-78dc-6083-d86b" type="rule"/>
+        <infoLink id="c133-5750-75f9-157c" name="Moveable Deployment Point" hidden="false" targetId="75e3-063f-bb31-3ea3" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="f76c-38f2-7d2e-dfc5" name="New CategoryLink" hidden="false" targetId="631e-642d-03ec-38b1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="4.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>

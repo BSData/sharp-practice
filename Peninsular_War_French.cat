@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="49d5-f902-581e-d57d" name="Peninsular War French" revision="1" battleScribeVersion="2.02" library="false" gameSystemId="4410-0bc8-f0e3-e5a0" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="ee52-22a9-8ce6-a238" name="French Line Infantry, 1809‐1812" publicationId="717d-5e01-ec61-ca94" page="106" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="8266-5b20-17de-8b24" name="French Line Infantry, 1809‐1812" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Pas de Charge</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7dee-dc02-8da8-fe6c" name="Pas de Charge" hidden="false" targetId="b282-e47c-c126-46ef" type="rule"/>
+        <infoLink id="4dc0-2112-3f83-b891" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="ad30-0f35-e882-7c21" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="4.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="319a-06c2-b278-ea42" name="French Grenadiers, 1809‐1812" publicationId="717d-5e01-ec61-ca94" page="106" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="c2fa-956d-cb62-2b0d" name="French Grenadiers, 1809‐1812" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">First Only</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">2</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Pas de Charge, Aggressive</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="cec1-1780-a408-8810" name="Pas de Charge" hidden="false" targetId="b282-e47c-c126-46ef" type="rule"/>
+        <infoLink id="b64a-9ad5-9c4e-96f2" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="bb3e-435e-1dd4-01c3" name="Aggressive" hidden="false" targetId="3768-904b-637a-dffd" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="5ad5-a26a-f7b4-7917" name="New CategoryLink" hidden="false" targetId="83e1-2188-7ecb-6a98" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c504-4192-7028-07ce" name="French Voltigeurs, 1809‐1812" publicationId="717d-5e01-ec61-ca94" page="106" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="f27b-747e-1604-ba72" name="French Voltigeurs, 1809‐1812" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">First Only</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Pas de Charge</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="5a78-a9d1-a9b1-02ca" name="Pas de Charge" hidden="false" targetId="b282-e47c-c126-46ef" type="rule"/>
+        <infoLink id="a987-d92d-ccfa-4a4c" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="4a8a-80d6-d474-6bb8" name="Aggressive" hidden="false" targetId="3768-904b-637a-dffd" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="cd14-ba90-a34e-8625" name="New CategoryLink" hidden="false" targetId="83e1-2188-7ecb-6a98" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e46f-6447-9cc3-e08e" name="French Voltigeur Skirmishers, 1809‐1812" publicationId="717d-5e01-ec61-ca94" page="106" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="bd21-e518-7257-e7be" name="French Voltigeur Skirmishers, 1809‐1812" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Sharp Practice</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">6</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e753-d751-9dbb-4163" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="85f9-b171-10bf-30d1" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="6038-aa0e-a09a-de99" name="New CategoryLink" hidden="false" targetId="bcc2-d8d3-8872-c543" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="df4c-ddb2-d818-c2b9" name="French Line Infantry, 1813‐1814" publicationId="717d-5e01-ec61-ca94" page="106" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="0b21-4cec-c3ef-13fb" name="French Line Infantry, 1813‐1814" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">-</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">3</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">3</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Pas de Charge</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="d40e-46d8-40d6-e77d" name="Pas de Charge" hidden="false" targetId="b282-e47c-c126-46ef" type="rule"/>
+        <infoLink id="62af-5af1-410e-0ef9" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8831-93c8-66c7-235c" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="4.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8b7e-3b8d-663d-0f00" name="French Grenadiers, 1813‐1814" publicationId="717d-5e01-ec61-ca94" page="106" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="263f-9ff0-8c13-bb3b" name="French Grenadiers, 1813‐1814" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">First Only</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">3</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Pas de Charge</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e3ac-1bc8-3ad0-c530" name="Pas de Charge" hidden="false" targetId="b282-e47c-c126-46ef" type="rule"/>
+        <infoLink id="93bd-389b-ebf6-85ed" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8c73-50e5-b0bf-48ff" name="New CategoryLink" hidden="false" targetId="83e1-2188-7ecb-6a98" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d689-aada-9197-6cf1" name="French Voltigeurs, 1813‐1814" publicationId="717d-5e01-ec61-ca94" page="106" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="d264-4cec-be5e-f86b" name="French Voltigeurs, 1813‐1814" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Sharp Practice</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="586f-517c-6f32-69e6" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="e1d1-b104-1c6a-e7ad" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="b69b-587e-8e8f-804f" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="4.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0c08-fbe9-2da8-5309" name="French Voltigeur Skirmishers, 1813‐1814" publicationId="717d-5e01-ec61-ca94" page="106" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="eda0-329e-c505-54b1" name="French Voltigeur Skirmishers, 1813‐1814" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Sharp Practice</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">6</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="df58-3072-f4e5-1f2a" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="8ba3-09b7-fd3e-cb90" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="c009-6390-eb8a-dba3" name="New CategoryLink" hidden="false" targetId="bcc2-d8d3-8872-c543" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cceb-a8e2-f480-1525" name="French Cuirassiers to 1812" publicationId="717d-5e01-ec61-ca94" page="107" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="f5a3-4c6d-0639-79f7" name="French Cuirassiers to 1812" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!, Cuirass</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="a6e3-d93a-2322-6a64" name="Tally Ho!" hidden="false" targetId="d8bb-78dc-6083-d86b" type="rule"/>
+        <infoLink id="6444-eafb-e3e4-b82d" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+        <infoLink id="a9f8-249b-bb6a-d84c" name="Cuirass" hidden="false" targetId="3c65-797a-987b-bb23" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="32e0-2b26-3364-e2e1" name="New CategoryLink" hidden="false" targetId="5c1c-87dd-2fb9-6089" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="8.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5153-cd9c-7297-4d16" name="French Dragoons to 1812" publicationId="717d-5e01-ec61-ca94" page="107" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="08c1-8886-8b77-a119" name="French Dragoons to 1812" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="11ea-f68d-1fe4-e5d9" name="Tally Ho!" hidden="false" targetId="d8bb-78dc-6083-d86b" type="rule"/>
+        <infoLink id="bc81-42ac-c1f2-031e" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+        <infoLink id="dd75-3049-28a6-ca45" name="Smoothbore Carbine" hidden="false" targetId="ccf3-c666-f735-5c57" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="5574-9d23-1fb6-0676" name="New CategoryLink" hidden="false" targetId="b95b-3f7a-d5fb-bbea" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="8.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="602d-cb8a-8035-8350" name="French Hussars to 1812" publicationId="717d-5e01-ec61-ca94" page="107" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="5423-a4a8-f6ea-7b85" name="French Hussars to 1812" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="cf81-0a6c-9860-4463" name="Tally Ho!" hidden="false" targetId="d8bb-78dc-6083-d86b" type="rule"/>
+        <infoLink id="1c3e-8092-0412-fb79" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="07a5-68bb-75cf-324c" name="New CategoryLink" hidden="false" targetId="a788-97af-54c1-f87a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2e24-7111-bed1-76ef" name="French Lancers to 1812" publicationId="717d-5e01-ec61-ca94" page="107" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="62e6-38dc-8bf0-7793" name="French Lancers to 1812" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="d526-f0f9-bd0f-c6c1" name="Tally Ho!" hidden="false" targetId="d8bb-78dc-6083-d86b" type="rule"/>
+        <infoLink id="6fe4-1b07-6442-6cee" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="22e5-e7d1-976f-4453" name="New CategoryLink" hidden="false" targetId="a788-97af-54c1-f87a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6ed9-9b30-a024-9f1a" name="French Cuirassiers to 1813‐1814" publicationId="717d-5e01-ec61-ca94" page="107" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="0b3c-2d60-b46e-c8e8" name="French Cuirassiers to 1813‐1814" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">-</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Cuirass</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="f163-a17e-fb76-d301" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+        <infoLink id="8882-bc1f-bf37-bfa1" name="Cuirass" hidden="false" targetId="3c65-797a-987b-bb23" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="aae7-5df0-6fc8-cdfc" name="New CategoryLink" hidden="false" targetId="5c1c-87dd-2fb9-6089" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9aa0-e18f-5d67-b5b5" name="French Dragoons to 1813-1814" publicationId="717d-5e01-ec61-ca94" page="107" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="33fe-3174-cb3d-5db0" name="French Dragoons to 1813-1814" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="87c2-5c7e-97b1-6817" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+        <infoLink id="f5cb-5722-9d67-d0fb" name="Smoothbore Carbine" hidden="false" targetId="ccf3-c666-f735-5c57" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="4236-5897-4c59-9460" name="Dragoons" hidden="false" targetId="b95b-3f7a-d5fb-bbea" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4662-9717-f8c6-5874" name="French Hussars to 1813-1814" publicationId="717d-5e01-ec61-ca94" page="107" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="39c1-030d-243e-e855" name="French Hussars to 1813-1814" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">-</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434"/>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="2d71-03b4-0c93-af18" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="058b-c195-1a6e-ee48" name="New CategoryLink" hidden="false" targetId="a788-97af-54c1-f87a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5ff0-02d8-f4e1-c267" name="French Lancers to 1813-1814" publicationId="717d-5e01-ec61-ca94" page="107" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="2cbc-423a-8864-7b74" name="French Lancers to 1813-1814" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">-</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434"/>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="695d-a105-abc5-973e" name="Sabre" hidden="false" targetId="9c40-10a6-8344-6862" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="5148-7f09-b939-d950" name="New CategoryLink" hidden="false" targetId="a788-97af-54c1-f87a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4f4c-d91c-9be9-5289" name="French Artillery" hidden="false" collective="false" type="upgrade">
+      <profiles>
+        <profile id="1068-c52b-470c-de3c" name="French Artillery" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">Yes</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434"/>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">5</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">-</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="d0d9-0a8e-04e9-5995" name="New CategoryLink" hidden="false" targetId="dafe-ff28-362c-9bd5" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="7f6d-6ca7-a11b-28bb" name="Artillery" publicationId="717d-5e01-ec61-ca94" hidden="false" collective="false" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="17ff-7fab-a4b0-1502" name="Leader" hidden="false" collective="false" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="79a2-5bdf-c77d-3ebc" name="New CategoryLink" hidden="false" targetId="612b-bffa-1303-f141" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="dde8-54cb-950e-91f1" name="Leader" hidden="false" collective="false" targetId="c30a-e677-a3c5-4987" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b3a0-dd0c-34a0-cd47" name="Support" hidden="false" collective="false" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="7313-071c-3508-de5e" name="New CategoryLink" hidden="false" targetId="a645-8a61-0128-7539" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="044e-3a91-e297-c57c" name="Support Options" publicationId="717d-5e01-ec61-ca94" hidden="false" collective="false" targetId="f9fa-f4cd-e965-48ea" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>

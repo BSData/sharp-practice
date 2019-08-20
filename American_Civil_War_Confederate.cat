@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="6bb8-5c7b-a8a6-0b2f" name="American Civil War Confederate" revision="1" battleScribeVersion="2.02" library="false" gameSystemId="4410-0bc8-f0e3-e5a0" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="e58a-6f9d-3619-7702" name="Confederate Infantry with Muskets, 1861-1862" publicationId="717d-5e01-ec61-ca94" page="112" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="2e1e-3fda-bbf3-493b" name="Confederate Infantry with Muskets, 1861-1862" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">First Only</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">3</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Buck &amp; Ball, Rebel Yell</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="6b7e-964b-7053-bab0" name="Buck and Ball" hidden="false" targetId="0ea2-499f-c9c6-7346" type="rule"/>
+        <infoLink id="b830-efd0-8bf4-cda6" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+        <infoLink id="bfa2-e875-3bff-1350" name="Rebel Yell" hidden="false" targetId="b4a5-5aaa-9912-2514" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="a9dd-bac1-591a-c4af" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8b5a-fd10-4a5c-e7dd" name="Confederate Cavalry" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="885c-35b1-0d19-dafb" name="Confederate Cavalry" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Tally Ho!, Sam Colt&apos;s Equalizer</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4f74-6b82-bafe-78e4" name="Rifled Musket (Minie)" hidden="false" targetId="0ef4-5389-3afc-9a5d" type="profile"/>
+        <infoLink id="fa2d-a308-c691-bd43" name="Mixed Weapons" hidden="false" targetId="b1d9-a8a7-72ed-522d" type="rule"/>
+        <infoLink id="06bf-a210-8c68-2858" name="Tally Ho!" hidden="false" targetId="d8bb-78dc-6083-d86b" type="rule"/>
+        <infoLink id="4bf9-eb50-6c18-6a09" name="Sam Colt&apos;s Equalizers" hidden="false" targetId="db57-7c03-0a6f-6af2" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="c10f-a313-4e05-67e0" name="New CategoryLink" hidden="false" targetId="b95b-3f7a-d5fb-bbea" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="9.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dc62-de2e-c3ce-7748" name="Confederate Artillery" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="fb1f-ae20-2f99-e0e1" name="Confederate Artillery" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">Yes</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">3</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434"/>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">5</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">-</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="650d-49b8-f050-bbb0" name="New CategoryLink" hidden="false" targetId="dafe-ff28-362c-9bd5" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="da56-d4e6-412a-47b0" name="Artillery" hidden="false" collective="false" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6dc7-b561-1724-9dd1" name="Confederate Infantry with Rifled Muskets, 1861-1862" publicationId="717d-5e01-ec61-ca94" page="112" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="c062-99ec-218a-4fee" name="Confederate Infantry with Rifled Muskets, 1861-1862" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">First Only</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">3</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Rebel Yell</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e6c4-bf93-8f5c-98a4" name="Rifled Musket (Minie)" hidden="false" targetId="0ef4-5389-3afc-9a5d" type="profile"/>
+        <infoLink id="c71e-9dba-676c-b2a2" name="Rebel Yell" hidden="false" targetId="b4a5-5aaa-9912-2514" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="05cd-6c28-2c39-4d1b" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="8.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4bcc-9926-5fce-0a0e" name="Confederate Infantry with Rifled Muskets, 1863-1865" publicationId="717d-5e01-ec61-ca94" page="112" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="bbda-6506-786b-ca00" name="Confederate Infantry with Rifled Muskets, 1863-1865" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">First Only</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">2</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">2</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Rebel Yell</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="2a9e-b044-c0bb-d6d9" name="Rifled Musket (Minie)" hidden="false" targetId="0ef4-5389-3afc-9a5d" type="profile"/>
+        <infoLink id="e55b-5644-0257-71a3" name="Rebel Yell" hidden="false" targetId="b4a5-5aaa-9912-2514" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="23e9-c1f1-4ef6-99af" name="New CategoryLink" hidden="false" targetId="83e1-2188-7ecb-6a98" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="9.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d737-5aa7-87a9-9487" name="Confederate Militia, 1861-1862" publicationId="717d-5e01-ec61-ca94" page="112" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="c865-180a-b14b-49d4" name="Confederate Militia, 1861-1862" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No Shock</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">3</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">3</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434"/>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">10</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">3&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="d30c-9455-e9f9-9882" name="Musket" hidden="false" targetId="0226-5b84-157f-379c" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="1c33-9b29-58b3-ebda" name="Militia" hidden="false" targetId="42a3-0db0-975a-bc57" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="3.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="10d8-a71d-e674-97a5" name="Confederate Skirmishers" publicationId="717d-5e01-ec61-ca94" page="112" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="bc64-9dd8-5043-f490" name="Confederate Skirmishers" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">Always</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">Yes</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">2</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Sharp Practice</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">6</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">2&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4b70-8712-20d4-25a8" name="Rifled Musket (Minie)" hidden="false" targetId="0ef4-5389-3afc-9a5d" type="profile"/>
+        <infoLink id="7287-6f3a-3e17-a972" name="Sharp Practice" hidden="false" targetId="7fc9-084e-faae-e5c3" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="93be-6ee6-86e1-a03d" name="New CategoryLink" hidden="false" targetId="bcc2-d8d3-8872-c543" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="11.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ed58-9280-b127-ee4f" name="Leader" hidden="false" collective="false" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="1f81-a7b7-6b1e-f386" name="New CategoryLink" hidden="false" targetId="612b-bffa-1303-f141" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="2cdc-40c7-a5d4-2b07" name="Leader" hidden="false" collective="false" targetId="c30a-e677-a3c5-4987" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fdb0-5a9c-bd5b-256a" name="Support Options" hidden="false" collective="false" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="9235-48e4-5125-7693" name="New CategoryLink" hidden="false" targetId="a645-8a61-0128-7539" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="0a28-73dc-02e8-5aa7" name="Support Options" hidden="false" collective="false" targetId="f9fa-f4cd-e965-48ea" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>
