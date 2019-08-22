@@ -458,7 +458,7 @@
         <entryLink id="7f6d-6ca7-a11b-28bb" name="Artillery" publicationId="717d-5e01-ec61-ca94" hidden="false" collective="false" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="17ff-7fab-a4b0-1502" name="Leader" hidden="false" collective="false" type="upgrade">

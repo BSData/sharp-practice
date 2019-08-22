@@ -303,7 +303,7 @@
         <entryLink id="b6ef-4a0e-f4eb-aea1" name="Artillery" hidden="false" collective="false" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="32c5-ac5e-0102-a54f" name="Support Options" hidden="false" collective="false" type="upgrade">
