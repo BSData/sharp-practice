@@ -329,5 +329,35 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="b128-933c-46d8-38cc" name="Indian Allies" publicationId="717d-5e01-ec61-ca94" page="88" hidden="false" collective="false" type="unit">
+      <profiles>
+        <profile id="6267-76fa-133e-f660" name="Indian Allies" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
+          <characteristics>
+            <characteristic name="Formation" typeId="b379-f56c-8497-5a83">No</characteristic>
+            <characteristic name="First Fire" typeId="27fe-009e-561f-bffb">No</characteristic>
+            <characteristic name="Controlled Volley" typeId="7880-4c90-1869-6edb">No</characteristic>
+            <characteristic name="Crashing Volley" typeId="ed41-c95d-22bb-a5cb">-</characteristic>
+            <characteristic name="Step Out" typeId="5292-1356-4cea-f775">1</characteristic>
+            <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
+            <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Aggressive, Prominent Leader, Tomahawks, Tactical, Moveable DP</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">6</characteristic>
+            <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="508d-4f20-7819-307c" name="Aggressive" hidden="false" targetId="3768-904b-637a-dffd" type="rule"/>
+        <infoLink id="00f7-8079-2e9e-8c97" name="Prominent Leader" hidden="false" targetId="fdd4-6315-5ca0-97d4" type="rule"/>
+        <infoLink id="9999-6150-0464-e9b0" name="Tomahawks" hidden="false" targetId="aaf0-ea31-abe9-6385" type="rule"/>
+        <infoLink id="2977-a195-74ff-ba37" name="Tactical" hidden="false" targetId="3cb0-011f-c4be-4e97" type="rule"/>
+        <infoLink id="eb36-aae5-15b1-d5e9" name="Moveable Deployment Point" hidden="false" targetId="75e3-063f-bb31-3ea3" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="a584-7c6b-1ec4-9ed8" name="New CategoryLink" hidden="false" targetId="802a-f3d2-7bfd-d7d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="8.0"/>
+      </costs>
+    </selectionEntry>
   </selectionEntries>
 </catalogue>

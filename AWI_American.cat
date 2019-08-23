@@ -358,5 +358,16 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="f2f8-5ab6-e834-fc65" name="Leader" hidden="false" collective="false" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="51c1-7cad-33b2-b6cf" name="New CategoryLink" hidden="false" targetId="612b-bffa-1303-f141" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="02dc-ebd8-ec4f-9312" name="Leader" hidden="false" collective="false" targetId="c30a-e677-a3c5-4987" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
   </selectionEntries>
 </catalogue>

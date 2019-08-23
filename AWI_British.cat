@@ -350,7 +350,7 @@
             <characteristic name="Step Out" typeId="5292-1356-4cea-f775">1</characteristic>
             <characteristic name="Drill" typeId="2f16-fd62-50d0-883d">-</characteristic>
             <characteristic name="Characteristics" typeId="161c-3c71-89d1-8434">Aggressive, Prominent Leader, Tomahawks, Tactical, Moveable DP</characteristic>
-            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">8</characteristic>
+            <characteristic name="Size" typeId="dd38-a731-1e95-b17e">12</characteristic>
             <characteristic name="Withdrawal Distance" typeId="426f-3e66-d211-7603">1&quot;</characteristic>
           </characteristics>
         </profile>
@@ -364,7 +364,7 @@
         <infoLink id="b6f0-db1c-86b9-d0b0" name="Moveable Deployment Point" hidden="false" targetId="75e3-063f-bb31-3ea3" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="9c45-c736-29a8-5dd8" name="New CategoryLink" hidden="false" targetId="5c1c-87dd-2fb9-6089" primary="true"/>
+        <categoryLink id="2537-e6c3-79a4-23f5" name="Tribe" hidden="false" targetId="f008-6343-9033-6590" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
