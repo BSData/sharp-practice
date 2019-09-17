@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="c1ef-4886-23f3-dceb" name="American Civil War Union" revision="1" battleScribeVersion="2.02" library="false" gameSystemId="4410-0bc8-f0e3-e5a0" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="c1ef-4886-23f3-dceb" name="American Civil War Union" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="4410-0bc8-f0e3-e5a0" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
-    <selectionEntry id="e58a-6f9d-3619-7702" name="Union Infantry, 1861 to 1863" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" type="unit">
+    <selectionEntry id="e58a-6f9d-3619-7702" name="Union Infantry, 1861 to 1863" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="2e1e-3fda-bbf3-493b" name="Union Infantry, 1861 to 1863" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -25,10 +25,10 @@
         <categoryLink id="a9dd-bac1-591a-c4af" name="New CategoryLink" hidden="false" targetId="3a23-a504-6b18-97ec" primary="true"/>
       </categoryLinks>
       <costs>
-        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9605-0752-235a-8fed" name="Union Infantry, 1864 to 1865" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" type="unit">
+    <selectionEntry id="9605-0752-235a-8fed" name="Union Infantry, 1864 to 1865" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="470c-7f6f-7f17-404b" name="Union Infantry, 1864 to 1865" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -55,7 +55,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5881-443d-5564-3112" name="Union Skirmishers" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" type="unit">
+    <selectionEntry id="5881-443d-5564-3112" name="Union Skirmishers" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="a775-6a34-3721-79df" name="Union Skirmishers" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -82,7 +82,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="11.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8b5a-fd10-4a5c-e7dd" name="Union Cavalry, 1861-1862" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" type="unit">
+    <selectionEntry id="8b5a-fd10-4a5c-e7dd" name="Union Cavalry, 1861-1862" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="885c-35b1-0d19-dafb" name="Union Cavalry, 1861-1862" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -108,7 +108,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="dd92-9f55-6507-79b3" name="Union Cavalry, 1863-1865" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" type="unit">
+    <selectionEntry id="dd92-9f55-6507-79b3" name="Union Cavalry, 1863-1865" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="f4f6-1eb9-eb30-76d2" name="Union Cavalry, 1863-1865" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -134,7 +134,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="13.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="dc62-de2e-c3ce-7748" name="Union Artillery" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" type="unit">
+    <selectionEntry id="dc62-de2e-c3ce-7748" name="Union Artillery" publicationId="717d-5e01-ec61-ca94" page="111" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="fb1f-ae20-2f99-e0e1" name="Union Artillery" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -154,13 +154,13 @@
         <categoryLink id="650d-49b8-f050-bbb0" name="New CategoryLink" hidden="false" targetId="dafe-ff28-362c-9bd5" primary="true"/>
       </categoryLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="4849-c39c-0696-527f" name="Gun" publicationId="717d-5e01-ec61-ca94" hidden="false" collective="false">
+        <selectionEntryGroup id="4849-c39c-0696-527f" name="Gun" publicationId="717d-5e01-ec61-ca94" hidden="false" collective="false" import="true">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7068-cfcf-4b1e-8498" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d1da-a05a-d574-babd" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="648b-f174-acf9-7621" name="Light" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="648b-f174-acf9-7621" name="Light" hidden="false" collective="false" import="true" type="upgrade">
               <infoLinks>
                 <infoLink id="3372-c699-fbe5-dc59" name="Light Gun (4 pdr)" hidden="false" targetId="05c9-a8e2-5d94-694f" type="profile"/>
               </infoLinks>
@@ -168,7 +168,7 @@
                 <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="d5ec-4720-aa9d-e9e1" name="Medium" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="d5ec-4720-aa9d-e9e1" name="Medium" hidden="false" collective="false" import="true" type="upgrade">
               <infoLinks>
                 <infoLink id="8841-a761-3859-dc41" name="Medium Gun (6-9 pdr)" hidden="false" targetId="4307-f19e-8d84-82bc" type="profile"/>
               </infoLinks>
@@ -176,7 +176,7 @@
                 <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="1.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="60fe-0ba0-7010-ad28" name="Heavy" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="60fe-0ba0-7010-ad28" name="Heavy" hidden="false" collective="false" import="true" type="upgrade">
               <infoLinks>
                 <infoLink id="8f30-fef2-fc56-43ce" name="Heavy Gun" hidden="false" targetId="bc04-6c02-42d6-5b79" type="profile"/>
               </infoLinks>
@@ -191,23 +191,23 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f069-639d-953a-3c51" name="Leader" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f069-639d-953a-3c51" name="Leader" hidden="false" collective="false" import="true" type="upgrade">
       <categoryLinks>
         <categoryLink id="4a02-588f-b2ef-1563" name="New CategoryLink" hidden="false" targetId="612b-bffa-1303-f141" primary="true"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="84c9-48c8-b0f6-c277" name="Leader" hidden="false" collective="false" targetId="c30a-e677-a3c5-4987" type="selectionEntryGroup"/>
+        <entryLink id="84c9-48c8-b0f6-c277" name="Leader" hidden="false" collective="false" import="true" targetId="c30a-e677-a3c5-4987" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7a5f-5059-07f7-df24" name="Support Options" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7a5f-5059-07f7-df24" name="Support Options" hidden="false" collective="false" import="true" type="upgrade">
       <categoryLinks>
         <categoryLink id="6095-725c-a0b1-c351" name="New CategoryLink" hidden="false" targetId="a645-8a61-0128-7539" primary="true"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="2492-97f6-0ba5-2c01" name="Support Options" hidden="false" collective="false" targetId="f9fa-f4cd-e965-48ea" type="selectionEntryGroup"/>
+        <entryLink id="2492-97f6-0ba5-2c01" name="Support Options" hidden="false" collective="false" import="true" targetId="f9fa-f4cd-e965-48ea" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
