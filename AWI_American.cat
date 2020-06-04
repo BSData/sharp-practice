@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="098f-3cde-01fe-c3db" name="AWI American" revision="1" battleScribeVersion="2.02" library="false" gameSystemId="4410-0bc8-f0e3-e5a0" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="098f-3cde-01fe-c3db" name="AWI American" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="4410-0bc8-f0e3-e5a0" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
-    <selectionEntry id="0148-bc68-eaaa-8a01" name="Minutemen 1775" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" type="unit">
+    <selectionEntry id="0148-bc68-eaaa-8a01" name="Minutemen 1775" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="301a-b221-5642-5da0" name="Minutemen 1775" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -29,7 +29,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4a47-ff6e-24cb-2023" name="State Line Troops to 1777" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" type="unit">
+    <selectionEntry id="4a47-ff6e-24cb-2023" name="State Line Troops to 1777" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="7e91-565c-fca2-4c46" name="State Line Troops to 1777" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -55,7 +55,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8eb3-efa2-25c1-3e6f" name="Rebel Militia to 1777" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" type="unit">
+    <selectionEntry id="8eb3-efa2-25c1-3e6f" name="Rebel Militia to 1777" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="15ef-c7f9-e715-4b36" name="Rebel Militia to 1777" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -83,7 +83,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="624f-811b-b140-a9a3" name="Continental Line to 1777" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" type="unit">
+    <selectionEntry id="624f-811b-b140-a9a3" name="Continental Line to 1777" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="4700-54d9-7a29-cfb8" name="Continental Line to 1777" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -110,7 +110,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5e60-12b2-4813-fd0d" name="State Line, 1778 onwards" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" type="unit">
+    <selectionEntry id="5e60-12b2-4813-fd0d" name="State Line, 1778 onwards" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="f2b3-b792-276e-c583" name="State Line, 1778 onwards" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -137,7 +137,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1061-90f0-148c-9ea3" name="Rebel Militia, 1778 onwards" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1061-90f0-148c-9ea3" name="Rebel Militia, 1778 onwards" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="7050-867f-16de-e61f" name="Rebel Militia, 1778 onwards" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -164,7 +164,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7f48-099e-573a-7c10" name="Continental Line, 1778 onwards" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" type="unit">
+    <selectionEntry id="7f48-099e-573a-7c10" name="Continental Line, 1778 onwards" publicationId="717d-5e01-ec61-ca94" page="96" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="9237-7574-c507-943e" name="Continental Line, 1778 onwards" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -191,7 +191,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="375c-691d-8623-a860" name="Continental Light Infantry Skirmishers" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" type="unit">
+    <selectionEntry id="375c-691d-8623-a860" name="Continental Light Infantry Skirmishers" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="722a-f70e-65e2-c440" name="Continental Light Infantry Skirmishers" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -221,7 +221,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d704-3455-6036-8dca" name="Rebel Militia Skirmishers" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" type="unit">
+    <selectionEntry id="d704-3455-6036-8dca" name="Rebel Militia Skirmishers" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="0412-a389-8b37-d266" name="Rebel Militia Skirmishers" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -248,7 +248,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cca4-0744-3790-a428" name="Frontiersmen Skirmishers" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" type="unit">
+    <selectionEntry id="cca4-0744-3790-a428" name="Frontiersmen Skirmishers" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="3a27-b1e4-cce0-fd21" name="Frontiersmen Skirmishers" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -279,7 +279,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0aa9-a60c-5ed8-9bf6" name="Continental Light Dragoons" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" type="unit">
+    <selectionEntry id="0aa9-a60c-5ed8-9bf6" name="Continental Light Dragoons" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="5278-5fd9-a026-b5d7" name="Continental Light Dragoons" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -306,7 +306,7 @@
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1c57-97f9-fec6-ea52" name="Rebel Artillery to 1778" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1c57-97f9-fec6-ea52" name="Rebel Artillery to 1778" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="fd00-bfc8-ac84-80c5" name="Rebel Artillery to 1778" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -326,13 +326,13 @@
         <categoryLink id="dac5-f2b6-11be-a5e3" name="New CategoryLink" hidden="false" targetId="dafe-ff28-362c-9bd5" primary="true"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="24d2-283e-4dba-1d29" name="Artillery" hidden="false" collective="false" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
+        <entryLink id="24d2-283e-4dba-1d29" name="Artillery" hidden="false" collective="false" import="true" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d1a4-c4e7-08be-7f46" name="Rebel Artillery 1779 onwards" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d1a4-c4e7-08be-7f46" name="Rebel Artillery 1779 onwards" publicationId="717d-5e01-ec61-ca94" page="97" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="517a-dc5e-fee6-431c" name="Rebel Artillery 1779 onwards" hidden="false" typeId="b3ef-efab-f259-e80c" typeName="Unit">
           <characteristics>
@@ -352,18 +352,29 @@
         <categoryLink id="2e70-8ca7-72e4-6906" name="New CategoryLink" hidden="false" targetId="dafe-ff28-362c-9bd5" primary="true"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="210c-526c-cc0a-4aef" name="Artillery" hidden="false" collective="false" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
+        <entryLink id="210c-526c-cc0a-4aef" name="Artillery" hidden="false" collective="false" import="true" targetId="1431-d05d-6eba-30a2" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f2f8-5ab6-e834-fc65" name="Leader" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f2f8-5ab6-e834-fc65" name="Leader" hidden="false" collective="false" import="true" type="upgrade">
       <categoryLinks>
         <categoryLink id="51c1-7cad-33b2-b6cf" name="New CategoryLink" hidden="false" targetId="612b-bffa-1303-f141" primary="true"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="02dc-ebd8-ec4f-9312" name="Leader" hidden="false" collective="false" targetId="c30a-e677-a3c5-4987" type="selectionEntryGroup"/>
+        <entryLink id="02dc-ebd8-ec4f-9312" name="Leader" hidden="false" collective="false" import="true" targetId="c30a-e677-a3c5-4987" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f1e4-534d-24cf-bed6" name="Support Options" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="5f64-7ef5-8284-bfa1" name="New CategoryLink" hidden="false" targetId="a645-8a61-0128-7539" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="d472-e5e5-54cd-ce34" name="Support Options" hidden="false" collective="false" import="true" targetId="f9fa-f4cd-e965-48ea" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6e4e-2180-a5bc-e3b3" value="0.0"/>
